@@ -6,7 +6,7 @@ Project Source & Distribution Link:
 
 Github Link: - https://github.com/nikita-bhalodiya/EDA-Airbnb
 
-Drive Link: - 
+Drive Link: - https://drive.google.com/drive/folders/1Q0NWI8QRd-GPGKIXy-l5y6vjhuJWGuX1?usp=sharing 
 
 Email : nikita.bhalodiya3717@gmail.com
 
@@ -25,7 +25,7 @@ Project Contribution:
 •	Analysis against room availability with neighbourhoods, room standards
 
 
-Project Summary
+Project Summary: 
 
 Since 2008, guests and hosts have used Airbnb to expand on traveling possibilities and present a more unique, personalized way of experiencing the world. Today, Airbnb became one of a kind service that is used and recognized by the whole world. Airbnb is a service that lets property owners rent out their spaces to travelers looking for a place to stay. Travelers can rent a space for multiple people to share, a shared space with private rooms, or the entire property for themselves.
 
