@@ -4,11 +4,20 @@ As part of AlmaBetter Capstone Project by Nikita Bhalodiya
 
 Project Source & Distribution Link:
 
-Github Link: - 
+Github Link: - https://github.com/nikita-bhalodiya/EDA-Airbnb
+
 Drive Link: - 
 
 Email : nikita.bhalodiya3717@gmail.com
 
+Project Contribution:
+
+•	Data Wrangling – Handled Null Values, create new dataset for categorical columns and numerical columns
+•	Plot Distribution of numeric features
+•	Analysis against room_category Vs price
+•	Analysis against Avg Minimum Nights vs Neighbourhood / room_category
+•	Analysis against  monthly reviews varies with room_category in each neighbourhood groups
+•	Analysis against room availability with neighbourhoods, room standards
 
 Project Summary
 
