@@ -6,7 +6,7 @@ Project Source & Distribution Link:
 
 Github Link: - https://github.com/nikita-bhalodiya/EDA-Airbnb.git
 
-Drive Link: - https://drive.google.com/drive/folders/1Q0NWI8QRd-GPGKIXy-l5y6vjhuJWGuX1?usp=sharing 
+Drive Link: - https://drive.google.com/drive/folders/1AyCn4kf9ccXmgH8NGq2XxZM9DL3Dj7hY?usp=share_link
 
 Email : nikita.bhalodiya3717@gmail.com
 
