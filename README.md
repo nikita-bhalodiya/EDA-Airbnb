@@ -4,7 +4,7 @@ As part of AlmaBetter Capstone Project by Nikita Bhalodiya
 
 Project Source & Distribution Link:
 
-Github Link: - https://github.com/nikita-bhalodiya/EDA-Airbnb
+Github Link: - https://github.com/nikita-bhalodiya/EDA-Airbnb.git
 
 Drive Link: - https://drive.google.com/drive/folders/1Q0NWI8QRd-GPGKIXy-l5y6vjhuJWGuX1?usp=sharing 
 
